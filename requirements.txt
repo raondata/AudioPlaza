@@ -2,4 +2,3 @@ torchaudio
 soundfile
 plotly
 tqdm
-glob

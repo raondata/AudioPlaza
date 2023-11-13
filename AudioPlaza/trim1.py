@@ -63,7 +63,7 @@ class trimmer:
 
 if __name__ == "__main__":
     trimmer = trimmer()
-    trimmer.trim("test.wav", "test_trimmed.wav")
+    trimmer.trim("test.wav", "trim_zero.wav")
 
 
 
