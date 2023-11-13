@@ -2,3 +2,4 @@ torchaudio
 soundfile
 plotly
 tqdm
+numpy

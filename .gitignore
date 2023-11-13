@@ -2,3 +2,6 @@ __pycache__
 ./AudioPlaza/__pycache__
 .venv
 test.wav
+AudioPlaza.egg-info/
+build/
+dist/

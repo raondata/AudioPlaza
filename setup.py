@@ -16,4 +16,11 @@ setuptools.setup(
         'src/*',
     ]},
     python_requires='>=3.6',
+    install_requires=open('requirements.txt').read().splitlines(),
+    classifiers=[
+        # 패키지에 대한 태그
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent"
+    ],
 )
